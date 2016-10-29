@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<xfcetheme>
+  <ThemeName>Xfce</ThemeName>
+  <IconThemeName>oxygen</IconThemeName>
+  <CursorThemeName>Underwater</CursorThemeName>
+  <SoundThemeName>Underwater</SoundThemeName>
+  <Background>/usr/share/xfce4/backdrops/park.jpg</Background>
+  <Theme>Synthetic</Theme>
+</xfcetheme>
